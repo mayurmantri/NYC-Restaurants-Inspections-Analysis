@@ -1,4 +1,4 @@
-# 🏙️ NYC Restaurant Health Inspections: A Data-Driven Analysis
+# 🏙️ NYC Restaurant Health Inspections: Unlocking Insights with Data Analysis
 
 ## 📖 Project Overview  
 This project explores restaurant health inspection data from **New York City**, analysing hygiene and compliance trends using **Python**, **SQL**, and **data visualization** tools. The analysis demonstrates a full **data analytics lifecycle**, from data collection through web scraping to cleaning, exploration, and deriving insights. The project showcases my ability to handle real-world datasets, apply analytical reasoning, and communicate findings effectively.
